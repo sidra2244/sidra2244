@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+React+Native+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidra2244&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🌸 About Me
@@ -61,18 +57,6 @@
 | 🔄 **Local Skill Exchange Board** | Platform for teaching and learning skills locally    |
 | 🛒 **Save2Serve**                 | Grocery expiry tracking and food-waste reduction app |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidra2244&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidra2244&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sidra2244&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
