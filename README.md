@@ -1,77 +1,108 @@
-# 👋 Hi, I'm Sidra Tul Muntaha!
+<h1 align="center">👋 Hi, I'm Sidra Tul Muntaha</h1>
 
-### 💻 Computer Science Student | Frontend Developer | AI & Hardware Enthusiast
+<h3 align="center">💻 Computer Science Student | Frontend Developer | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+React+Native+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sidra2244&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🌸 About Me
 
-🎓 I'm currently pursuing a **Bachelor's degree in Computer Science** at **Fatima Jinnah Women University**.
+🎓 Computer Science student at **Fatima Jinnah Women University**
 
-💡 I enjoy building practical software solutions while continuously expanding my knowledge in technology. My interests range from creating responsive web applications to exploring artificial intelligence and hardware-based projects.
+💻 Passionate about building **responsive and user-friendly web applications**
 
-🌱 **Currently Learning:** Next.js, Python, and modern web technologies.
+🤖 Exploring **Artificial Intelligence, Machine Learning & LLMs**
 
-🎯 **Interests:** Artificial Intelligence, Web Development, Mobile App Development
+📱 Interested in **Mobile App Development**
 
-⚡ **Fun Fact:** I enjoy solving coding challenges, learning new technologies, and turning creative ideas into real-world projects.
+🔧 Enjoy experimenting with **Arduino and hardware projects**
+
+🌱 Currently learning **Next.js, Python, AI/ML and modern web technologies**
+
+🚀 Always learning, building and turning ideas into practical solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-* C
-* C++
-* Python
-* Java
-* HTML
-* CSS
-* JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" />
+</p>
 
 ### ⚛️ Frameworks & Technologies
 
-* React
-* React Native
-* Node.js
-* Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+</p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 
-* MySQL
-* Supabase
-
-### 🔧 Tools & Platforms
-
-* Git & GitHub
-* Visual Studio Code
-* Arduino IDE
-* Google Colab
-* Canva
-* Figma
-* EdrawMax
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,git,github,vscode,arduino" />
+</p>
 
 ---
 
-## 🚀 Areas of Interest
+## 🚀 Featured Projects
 
-* 🤖 Artificial Intelligence
-* 🌐 Frontend Web Development
-* 📱 Mobile Application Development
-* 💻 Software Development
+| Project                           | Description                                          |
+| --------------------------------- | ---------------------------------------------------- |
+| 🚛 **TruckLink**                  | Driver hiring and onboarding platform                |
+| 🚗 **CarpoolCampus**              | Ride-sharing coordination platform for students      |
+| 🔄 **Local Skill Exchange Board** | Platform for teaching and learning skills locally    |
+| 🛒 **Save2Serve**                 | Grocery expiry tracking and food-waste reduction app |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sidra2244&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidra2244&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sidra2244&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+Next.js
+AI & Machine Learning
+LLMs & Generative AI
+Data Science
+Full-Stack Development
+```
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/sidra-267baa306/
-* 💻 **GitHub:** https://github.com/sidra2244
+<p align="center">
+  <a href="https://www.linkedin.com/in/sidra-267baa306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sidra2244">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ✨ A Little More About Me
+<h3 align="center">✨ Learn • Build • Improve • Repeat 🚀</h3>
 
-I enjoy collaborating on meaningful projects, learning from new experiences, and developing applications that solve real-world problems. I'm always eager to explore emerging technologies and continuously improve my technical skills.
-
-⭐ Thanks for stopping by my profile! Feel free to check out my repositories and connect with me.
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
